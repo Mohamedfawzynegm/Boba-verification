@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+h1 {
+  background-color: green;
+  color: white;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+span {
+  color: blue;
+}
+img:hover {
+  transform: scale(1.2);
+}
